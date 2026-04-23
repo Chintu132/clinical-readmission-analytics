@@ -1,0 +1,8 @@
+data/synthea/*.csv
+data/processed/*.csv
+*.db
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.pbix
+.DS_Store
