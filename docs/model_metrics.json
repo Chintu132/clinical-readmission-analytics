@@ -1,5 +1,5 @@
 {
-  "lr_auc": 0.658,
+  "lr_auc": 0.655,
   "rf_auc": 0.61,
   "features": [
     "age",
