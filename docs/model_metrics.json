@@ -1,0 +1,32 @@
+{
+  "lr_auc": 0.658,
+  "rf_auc": 0.61,
+  "features": [
+    "age",
+    "is_male",
+    "is_medicare",
+    "is_medicaid",
+    "length_of_stay",
+    "total_encounters",
+    "inpatient_count",
+    "ed_count",
+    "avg_los",
+    "distinct_categories",
+    "has_diabetes",
+    "has_heart_failure",
+    "has_copd",
+    "has_ckd",
+    "has_depression",
+    "active_med_count",
+    "polypharmacy",
+    "discharged_to_snf",
+    "discharged_ama",
+    "max_risk_factor",
+    "latest_bmi",
+    "latest_sbp",
+    "latest_hr",
+    "latest_glucose"
+  ],
+  "samples": 5507,
+  "readmission_rate": 6.1
+}
